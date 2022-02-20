@@ -2,7 +2,7 @@
 @ Author: Patrick Berzins
 @ prb0013@uah.edu
 @ CS413-01 2022
-@ Purpose: using arrays and autoindex
+@ Purpose: using arrays and autoindexing to perform arithmetic on values stored in arrays
 @ Use these command to assemble, link and run this program
 @    as -o berzinsLab1.o berzinsLab1.s
 @    gcc -o berzinsLab1 berzinsLab1.o
